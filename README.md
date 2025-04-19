@@ -18,7 +18,7 @@ This project is a recommendation system that suggests attractions in San Francis
    ```
 3. **Run the Application**: Execute the main script to start the recommender system.
    ```bash
-   python new_approach.py
+   python main.py
    ```
 
 ## Usage
