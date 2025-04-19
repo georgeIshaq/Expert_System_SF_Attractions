@@ -39,12 +39,6 @@ The codebase is organized into several modules:
 - The Prolog knowledge base is dynamically generated from the Google Sheet data, allowing for easy updates and maintenance.
 - The sheet ID and GID can be changed in `models.py` to point to a different data source.
 
-## Contributing
-Contributions are welcome! If you have suggestions for improvements or new features, feel free to open an issue or submit a pull request.
-
-## License
-This project is licensed under the MIT License. See the LICENSE file for more details.
-
 ## Acknowledgments
 - This project uses the [pyswip](https://github.com/yuce/pyswip) library to interface with SWI-Prolog from Python.
-- Special thanks to all contributors and users who have provided feedback and suggestions.
+- Special thanks to Kennedy, Dasha, and Candace
